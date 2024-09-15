@@ -1,4 +1,4 @@
-![👋 Hi, my name is Munashe Njanji](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg)
+![👋 Hi, my name is Munashe Njanji](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg){:height="50px"}
 
 ![Profile views](https://komarev.com/ghpvc/?username=Munashe-Njanji&label=Profile%20views&color=0e75b6&style=flat)
 
