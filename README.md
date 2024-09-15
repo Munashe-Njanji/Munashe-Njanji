@@ -1,4 +1,4 @@
-![👋 Hi, my name is Munashe Njanji](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+![👋 Hi, my name is Munashe Njanji]([https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg](https://www.pexels.com/photo/computer-c-code-276452/))
 
 ![Profile views](https://komarev.com/ghpvc/?username=Munashe-Njanji&label=Profile%20views&color=0e75b6&style=flat)
 
