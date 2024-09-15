@@ -1,5 +1,5 @@
 ![👋 Hi, my name is Munashe Njanji](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg)
-
+img[alt=👋 Hi, my name is Munashe Njanji]{height=60}
 ![Profile views](https://komarev.com/ghpvc/?username=Munashe-Njanji&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
