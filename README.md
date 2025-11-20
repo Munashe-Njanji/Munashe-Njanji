@@ -1,45 +1,89 @@
-![👋 Hi, my name is Munashe Njanji](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg)
+# Munashe Njanji
 
-![Profile views](https://komarev.com/ghpvc/?username=Munashe-Njanji&label=Profile%20views&color=0e75b6&style=flat)
+**Full-Stack Software Engineer | Systems Developer | Technical Educator**
 
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, my name is Munashe Njanji
-      </h1>
-    </summary>
-  </ul>
+---
+
+## About
+
+Full-stack engineer with expertise in building scalable web platforms, robust backend systems, and modern developer tooling. I specialize in JavaScript/TypeScript ecosystems, Python, Go, and cloud-native architectures, with a focus on solving complex engineering problems and creating exceptional user experiences.
+
+My background in teaching Computer Science and STEM subjects has strengthened my ability to design systems with clarity, write maintainable code, and communicate technical concepts effectively.
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Munashe-Njanji)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:munashenjanji45@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munashenjanji)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/MunasheNjanji)
+
+---
+
+## Current Focus
+
+- Building production-grade applications with React, Node.js, Go, and Python frameworks
+- Designing distributed systems and scalable backend architectures
+- Contributing to open-source projects and developer productivity tools
+- Exploring modern database solutions including Supabase, PostgreSQL, and Redis
+- Implementing CI/CD pipelines and containerized deployment strategies
+
+## Technical Expertise
+
+**Languages & Runtime**  
+JavaScript · TypeScript · Go · Python · PHP · Dart · Java
+
+**Frontend Development**  
+React · Next.js · Angular · Tailwind CSS · Bootstrap · Three.js · Preact
+
+**Backend & APIs**  
+Node.js · Express · NestJS · FastAPI · Django · Flask · Spring Boot · Laravel · Fiber
+
+**Databases & Data**  
+PostgreSQL · MySQL · MongoDB · SQLite · Redis · Prisma · TypeORM · Drizzle ORM
+
+**Cloud & Infrastructure**  
+Docker · Kubernetes · AWS · GitHub Actions · CI/CD
+
+**Mobile Development**  
+Flutter · React Native · Kotlin
+
+**Data Science & ML**  
+TensorFlow · PyTorch · OpenCV · Scikit-learn · Pandas
+
+**Development Tools**  
+VS Code · IntelliJ IDEA · Postman · Figma · Git
+
+---
+
+## Areas of Interest
+
+- API design and microservices architecture
+- Performance optimization and caching strategies
+- Authentication and security implementations
+- Database design and query optimization
+- Developer experience and tooling
+- Technical mentorship and knowledge sharing
+
+## Open Source & Projects
+
+Currently working on several projects exploring full-stack patterns, developer tools, and system design implementations. Check out my repositories for examples of production-ready code, architectural decisions, and problem-solving approaches.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Munashe-Njanji&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/Munashe-Njanji" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="munashenjanji45@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://codepen.io/MunasheNjanji" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/munashenjanji" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/munashe-njanji" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Munashe-Njanji&theme=react&hide_border=true" alt="GitHub Streak" />
+</div>
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization.</h3>**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Munashe-Njanji&theme=react&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
 
-**<h3 align="left">Rapid Fire</h3>**
+---
 
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
-- 🌱 I'm currently learning: **Supabase**
-- 💬 Ask me about: **💡 JavaScript, Go, DJango, FastAPI, Pyhton, React, Node.js, MongoDB, and RESTful APIs**
-- ⚡ Fun fact: **I love linux**
-
- **<h3 align="left">Skills</h3>**
-
-<p align="left"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GSAP-00D084?logo=gsap&logoColor=white" height="32" alt="GSAP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=javascript" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=typescript" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://skillicons.dev/icons?i=python" height="32" alt="Python" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="32" alt="Go" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" height="32" alt="Dart" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white" height="32" alt="Shell" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=white" height="32" alt="Julia" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Erlang-7056A1?logo=erlang&logoColor=white" height="32" alt="Erlang" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Sequelize-2D3748?logo=sequelize&logoColor=white" height="32" alt="Sequelize" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeORM-262627?logo=typeorm&logoColor=white" height="32" alt="TypeORM" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Mongoose-880000?logo=mongoose&logoColor=white" height="32" alt="Mongoose" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Drizzle-4F5D95?logo=drizzle&logoColor=white" height="32" alt="Drizzle" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="32" alt="Angular" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Preact-FF2D55?logo=preact&logoColor=white" height="32" alt="Preact" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="32" alt="jQuery" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Three.js-000000?logo=three.js&logoColor=white" height="32" alt="Three.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Material_UI-007FFF?logo=material-ui&logoColor=white" height="32" alt="Material-UI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="32" alt="Django" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" height="32" alt="Flask" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="32" alt="Spring" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=white" height="32" alt="Laravel" style="margin-right: 4px"> <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" height="32" alt="NestJS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" height="32" alt="FastAPI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Fiber-00A8E8?logo=fiber&logoColor=white" height="32" alt="Fiber" style="margin-right: 4px"> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" height="32" alt="SQLite" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" height="32" alt="Redis" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" height="32" alt="MariaDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Cassandra-1287B1?logo=apache%20cassandra&logoColor=white" height="32" alt="Cassandra" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" height="32" alt="React Native" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" height="32" alt="Flutter" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white" height="32" alt="Kotlin" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" height="32" alt="TensorFlow" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" height="32" alt="PyTorch" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" height="32" alt="Scikit-learn" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" height="32" alt="Keras" style="margin-right: 4px"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" height="32" alt="OpenCV" style="margin-right: 4px"> <img src="https://img.shields.io/badge/NLTK-4B8BBE?logo=nltk&logoColor=white" height="32" alt="NLTK" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Hugging_Face-FF6F91?logo=huggingface&logoColor=white" height="32" alt="Hugging Face" style="margin-right: 4px"> <img src="https://img.shields.io/badge/FastAI-0077C5?logo=fastai&logoColor=white" height="32" alt="FastAI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" height="32" alt="Pandas" style="margin-right: 4px"> <img src="https://img.shields.io/badge/XGBoost-FF9900?logo=xgboost&logoColor=white" height="32" alt="XGBoost" style="margin-right: 4px"> <img src="https://img.shields.io/badge/LightGBM-F7F7F7?logo=lightgbm&logoColor=green" height="32" alt="LightGBM" style="margin-right: 4px"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="32" alt="OpenAI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" height="32" alt="Plotly" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Chart.js-FF6384?logo=chart.js&logoColor=white" height="32" alt="Chart.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/D3.js-F9A03C?logo=d3.js&logoColor=white" height="32" alt="D3.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" height="32" alt="Tableau" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=power%20bi&logoColor=black" height="32" alt="Power BI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" height="32" alt="Grafana" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="32" alt="Kubernetes" style="margin-right: 4px"> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="32" alt="GitHub Actions" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white" height="32" alt="Amazon AWS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" height="32" alt="Jest" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=white" height="32" alt="Mocha" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" height="32" alt="Cypress" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" height="32" alt="Selenium" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white" height="32" alt="Puppeteer" style="margin-right: 4px"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=intellij-idea&logoColor=white" height="32" alt="IntelliJ IDEA" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?logo=visual-studio-code&logoColor=white" height="32" alt="Visual Studio Code" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" height="32" alt="Postman" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" height="32" alt="Figma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=white" height="32" alt="Hugo" style="margin-right: 4px"> <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?logo=aws-amplify&logoColor=white" height="32" alt="AWS Amplify" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="32" alt="Supabase" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white" height="32" alt="Firebase" style="margin-right: 4px"></p>
-
- **<h3 align="left">GitHub Stats</h3>**
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Munashe-Njanji&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Munashe-Njanji&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
-</p>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Munashe-Njanji&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Munashe-Njanji&repo=Bubble&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
-</p>
-
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://ko-fi.com/munashenjanji" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-343B45?logo=kofi&logoColor=Black" height="36" style="margin-right: 4px"></a></p>
+**Let's build something exceptional together.**
