@@ -76,9 +76,6 @@ Currently working on several projects exploring full-stack patterns, developer t
   <img src="https://github-readme-stats.vercel.app/api?username=Munashe-Njanji&theme=react&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Munashe-Njanji&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Munashe-Njanji&theme=react&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
